@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/1.unity
+    guid: bdd97c707975ee243830142a14f38ff8
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 62078a7273760f648880e9a6fb22e9d4
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 16e1f79b18cfc4148b7c599347fb4abd
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: a236525e217305944b0c8e4201bde513
+  - enabled: 1
+    path: Assets/Scenes/Cities.unity
+    guid: 1b224b2c0a770a346be74ea89e1b9c78
+  - enabled: 1
+    path: Assets/Scenes/Rivers.unity
+    guid: 4ab0b899f58f6924ab09bb7c74a803aa
+  - enabled: 1
+    path: Assets/Scenes/Geology.unity
+    guid: f740d13ca9b863b4a9b517c2a3e2daac
+  - enabled: 1
+    path: Assets/Scenes/Landmarks.unity
+    guid: cc13ee8c99c3a754ea39028bfcc81d3a
+  - enabled: 1
+    path: Assets/Scenes/Americas.unity
+    guid: d9b5e038c0ac86046a857ca215c49b09
+  m_configObjects: {}
